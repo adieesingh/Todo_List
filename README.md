@@ -17,7 +17,9 @@ A simple and intuitive Todo List application that helps you manage your daily ta
 
 ## 📸 Screenshots
 
-<!-- Add screenshots of your application -->
+<img width="645" height="836" alt="Signup" src="https://github.com/user-attachments/assets/abbab6dc-d9ce-468d-9590-828bdc0c51a2" />
+<img width="723" height="610" alt="Signin" src="https://github.com/user-attachments/assets/cc87d614-781a-4482-a0fc-a71fcacfbcba" />
+<img width="701" height="763" alt="Todo" src="https://github.com/user-attachments/assets/9fea69cf-e6d3-400b-9592-19eba7fef60b" />
 
 
 ## 🛠️ Technologies Used
